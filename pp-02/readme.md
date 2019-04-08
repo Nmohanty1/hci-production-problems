@@ -11,6 +11,7 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
+<<<<<<< HEAD
 Your Palette URL: http://paletton.com/#uid=10v0u0kg8qHoeb4qdbK7uPn9+Py
 Your Rationale: I chose a brown family for the monochromatic color palette because you tend to see brown and beige colors in various buisnesses that are trying to give off a sense of warmth or home.
 
@@ -29,3 +30,22 @@ Your Rationale: I went with the basic colors for this one. I did this because if
 Your Palette URL:http://paletton.com/#uid=c103P1u0y0kcglL4Zvw8Eq6eXhmkwen
 
 Your Rationale: I like this pallette is my favorite. I feel like this pallete can be used in a professional work eviornment. I feel like it makes many people realize that which is why I think it would be perfect for advertisments. 
+=======
+Your Palette URL:
+Your Rationale:
+
+2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
+
+Your Palette URL:
+Your Rationale:
+
+3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
+
+Your Palette URL:
+Your Rationale:
+
+4. A custom color palette for advertising a course on cybersecurity
+
+Your Palette URL:
+Your Rationale:
+>>>>>>> 844eab1870e854afbe30933d4cc0fe28ae7c2ad7
